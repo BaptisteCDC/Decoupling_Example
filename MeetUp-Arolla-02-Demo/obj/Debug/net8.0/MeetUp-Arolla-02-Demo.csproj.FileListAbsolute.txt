@@ -1,0 +1,5 @@
+/Users/adm2_bmace_ext/repos/meetup/MeetUp-Arolla-02-Demo/obj/Debug/net8.0/MeetUp-Arolla-02-Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adm2_bmace_ext/repos/meetup/MeetUp-Arolla-02-Demo/obj/Debug/net8.0/MeetUp-Arolla-02-Demo.AssemblyInfoInputs.cache
+/Users/adm2_bmace_ext/repos/meetup/MeetUp-Arolla-02-Demo/obj/Debug/net8.0/MeetUp-Arolla-02-Demo.AssemblyInfo.cs
+/Users/adm2_bmace_ext/repos/meetup/MeetUp-Arolla-02-Demo/obj/Debug/net8.0/MeetUp-Arolla-02-Demo.csproj.CoreCompileInputs.cache
+/Users/adm2_bmace_ext/repos/meetup/MeetUp-Arolla-02-Demo/obj/Debug/net8.0/MeetUp-Arolla-02-Demo.csproj.AssemblyReference.cache
